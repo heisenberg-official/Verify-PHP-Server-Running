@@ -6,3 +6,7 @@
 3) Restart the server { In my case it was apache so , sudo service apache2 restart }
 4) Open the php script page in your browser and it will show your php version and other details.
 5) If successfull the php is deployed ENJOY.
+
+### After successful installation Test.php page should look something like this
+
+<h1 align="center"> <br><a href="#"><img src="https://fos.cmb.ac.lk/blog/wp-content/uploads/2016/05/Screenshot_20160515_104948.png" alt="PHP"></a></h1>
